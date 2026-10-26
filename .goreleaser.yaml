@@ -25,9 +25,9 @@ changelog:
 
 brews:
   - repository:
-      owner: star-plan
+      owner: iugamlabs
       name: homebrew-tap
       token: "{{ .Env.TAP_GITHUB_TOKEN }}"
-    homepage: "https://github.com/star-plan/wechat-clone"
+    homepage: "https://github.com/iugamlabs/wechat-clone"
     description: "macOS 微信分身管理 CLI 工具"
     license: "Apache-2.0"
